@@ -12,6 +12,6 @@
 
 # Time taken to finish this project is around 5 hours.
 
-[Live link for Project-14]()
+[Live link for Project-14](https://soft-hotteok-c32a0c.netlify.app/)
 
 
